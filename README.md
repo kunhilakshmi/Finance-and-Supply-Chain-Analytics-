@@ -1,15 +1,18 @@
 # Finance-and-Supply-Chain-Analytics-
 
 About the Company :
+
 AtliQ Hardware is a global supplier specializing in electronic hardware products such as keyboards, mice, printers, and more.
 
 AtliQ Hardware → Retail Customers (Online and Offline) → Consumers.
 
 Project Summary :
+
 This project overcomes Excel’s limitations, such as file size restrictions, by utilizing MySQL analytics to drive better decision-making and optimize operations.
 We analyzed sales, products, customers, and regional data from AtliQ Hardware to uncover actionable insights, supporting strategic decision-making.
 
 Key Achievements :
+
 1.Enhanced Sales Reporting : Increased the accuracy and efficiency of sales reports.
 
 2.Market Trend Insights : Discovered growth opportunities through comprehensive market trend analysis.
